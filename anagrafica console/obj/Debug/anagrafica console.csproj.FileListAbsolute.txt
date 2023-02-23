@@ -1,0 +1,7 @@
+C:\Users\Samuel\Documents\progetti vari\Informatica\C#\CONSOLE\anagrafica console\bin\Debug\anagrafica console.exe.config
+C:\Users\Samuel\Documents\progetti vari\Informatica\C#\CONSOLE\anagrafica console\bin\Debug\anagrafica console.exe
+C:\Users\Samuel\Documents\progetti vari\Informatica\C#\CONSOLE\anagrafica console\bin\Debug\anagrafica console.pdb
+C:\Users\Samuel\Documents\progetti vari\Informatica\C#\CONSOLE\anagrafica console\obj\Debug\anagrafica console.csproj.AssemblyReference.cache
+C:\Users\Samuel\Documents\progetti vari\Informatica\C#\CONSOLE\anagrafica console\obj\Debug\anagrafica console.csproj.CoreCompileInputs.cache
+C:\Users\Samuel\Documents\progetti vari\Informatica\C#\CONSOLE\anagrafica console\obj\Debug\anagrafica console.exe
+C:\Users\Samuel\Documents\progetti vari\Informatica\C#\CONSOLE\anagrafica console\obj\Debug\anagrafica console.pdb
